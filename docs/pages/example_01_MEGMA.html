@@ -13110,7 +13110,11 @@ div#notebook {
 </ul>
 </li>
 </ul>
-<h2 id="*-2.3-Discussions-&amp;-conclusions-on-MEGMA-2D-microbiomeprints">* <a href="#2.3-Discussions-&amp;-conclusions-on-MEGMA-2D-microbiomeprints">2.3 Discussions &amp; conclusions on MEGMA 2D-microbiomeprints</a><a class="anchor-link" href="#*-2.3-Discussions-&amp;-conclusions-on-MEGMA-2D-microbiomeprints">&#182;</a></h2><p><strong>MEGMA</strong> is an unsupervised learning method, and it can be trained by the metagnomic abundance data only (without label information), the 2D-microbiomeprints can be transformed by the trained <code>megma</code> object from the metagnomic abundance vectors.</p>
+<ul>
+<li><a href="#2.3-Discussions-&amp;-conclusions-on-MEGMA-2D-microbiomeprints">2.3 Discussions &amp; conclusions on MEGMA 2D-microbiomeprints</a></li>
+</ul>
+<hr>
+<p><strong>MEGMA</strong> is an unsupervised learning method, and it can be trained by the metagnomic abundance data only (without label information), the 2D-microbiomeprints can be transformed by the trained <code>megma</code> object from the metagnomic abundance vectors.</p>
 <p>Therefore, we can train the <code>megma</code> based on all of the metagnomic abundance data (<code>megma_all</code>) or metagnomic abundance data of only one country (for example, <code>megma_usa</code> for USA data). Fitting the <code>megma</code> object with different data can produce different 2D-microbiomeprints. Because different data controls the arrangement and placement of feature points (i.e., the microbes), the correlation distance matrix or similar matrix of the microbes can be different when calculated by different data.</p>
 <p>But in general, the correlation matrix calculated based on the whole data can be more robust and accurately (Because microbe-to-microbe correlation distances/similarities are measured with more samples), and consequently, the 2D-microbiomeprints can be more structured and patterned. In this example, we will show how to generate the 2D-microbiomeprints based on the whole data or one country data, and to see the differences of 2D-microbiomeprints.</p>
 
