@@ -4,14 +4,14 @@ This tutorial is about the metagenomic deep learning and biomarker discovery bas
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6450642.svg)](https://doi.org/10.5281/zenodo.6450642)
 [![PyPI version](https://badge.fury.io/py/aggmap.svg)](https://badge.fury.io/py/aggmap)
-[![Documentation Status](https://readthedocs.org/projects/bidd-aggmap/badge/?version=latest)](https://bidd-aggmap.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/bidd-aggmap/badge/?version=latest)](https://bidd-aggmap.readthedocs.io/en/latest/examples.html#metagenomic-deep-learning-and-biomarker-discovery)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Dkawtw4hanY3ks0mBMqvN1beskF6usjC)
 
 
 ### MEGMA
 **MEGMA** is short for metagenomic **M**icrobial **E**mbedding, **G**rouping, and **M**apping **A**lgorithm (MEGMA) , which is a further step development of **AggMap** that specific for metagenomic data learning. **MEGMA** is developed to transform the tabular metagenomic data into spatially-correlated color image-like 2D-representations, named as the 2D-microbiomeprints (3D tensor data in the form of row, column and channel). 2D-microbiomeprints are multichannel feature maps (Fmaps) and are the inputs of ConvNet-based AggMapNet models. 
 
-**MEGMA** is released in the (**aggmap**)[https://github.com/shenwanxiang/bidd-aggmap] package, in this tutorial, we will show how to employ the **aggmap** package for **MEGMA** implementary.
+**MEGMA** is released in the [**aggmap**](https://github.com/shenwanxiang/bidd-aggmap) package, in this tutorial, we will show how to employ the **aggmap** package for **MEGMA** implementary.
 
 for metagenomic-based disease prediction by deep learning model and identifying the important signatures.
 
