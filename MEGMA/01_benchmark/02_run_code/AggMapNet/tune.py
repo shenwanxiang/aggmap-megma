@@ -14,8 +14,12 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from joblib import dump, load
 
-from aggmap import AggMap, AggModel, loadmap
-from aggmap.AggModel import load_model, save_model
+
+from aggmap import AggMap, loadmap
+from aggmap import AggMapNet as AggModel
+
+from aggmap.AggMapNet import load_model, save_model
+from aggmap import show
 
 
 np.random.seed(666) #just for reaptable results
