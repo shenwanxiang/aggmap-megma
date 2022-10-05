@@ -1,0 +1,8 @@
+,0
+dataset,Obesity
+y,./metagenomics/obephy_y.csv
+x,./metagenomics/obephy_x.csv
+MEGMA,"('umap', 5)"
+key,MEGMA-Obesity-UMAP-5
+X_size,"(253, 22, 22, 5)"
+fmap_shape,"(22, 22)"

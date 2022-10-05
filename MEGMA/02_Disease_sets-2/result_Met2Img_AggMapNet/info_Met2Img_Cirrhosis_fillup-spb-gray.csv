@@ -1,0 +1,4 @@
+,0
+dataset,Cirrhosis
+X_size,"(232, 24, 24, 1)"
+Met2Img,fillup-spb-gray

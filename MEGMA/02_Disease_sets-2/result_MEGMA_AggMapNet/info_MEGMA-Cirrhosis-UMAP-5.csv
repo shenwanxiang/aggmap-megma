@@ -1,0 +1,8 @@
+,0
+dataset,Cirrhosis
+y,./metagenomics/cirphy_y.csv
+x,./metagenomics/cirphy_x.csv
+MEGMA,"('umap', 5)"
+key,MEGMA-Cirrhosis-UMAP-5
+X_size,"(232, 24, 23, 5)"
+fmap_shape,"(24, 23)"

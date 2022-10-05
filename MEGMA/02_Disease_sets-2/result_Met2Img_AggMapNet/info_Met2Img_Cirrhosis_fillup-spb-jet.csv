@@ -1,0 +1,4 @@
+,0
+dataset,Cirrhosis
+X_size,"(232, 24, 24, 3)"
+Met2Img,fillup-spb-jet

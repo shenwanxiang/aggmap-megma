@@ -1,0 +1,8 @@
+,0
+dataset,IBD
+y,./metagenomics/ibdphy_y.csv
+x,./metagenomics/ibdphy_x.csv
+MEGMA,"('umap', 5)"
+key,MEGMA-IBD-UMAP-5
+X_size,"(110, 22, 21, 5)"
+fmap_shape,"(22, 21)"

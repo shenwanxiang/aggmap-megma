@@ -1,0 +1,8 @@
+,0
+dataset,T2D
+y,./metagenomics/t2dphy_y.csv
+x,./metagenomics/t2dphy_x.csv
+MEGMA,"('umap', 5)"
+key,MEGMA-T2D-UMAP-5
+X_size,"(344, 24, 24, 5)"
+fmap_shape,"(24, 24)"

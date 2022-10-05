@@ -1,0 +1,4 @@
+,0
+dataset,T2D
+X_size,"(344, 24, 24, 1)"
+Met2Img,fillup-spb-gray

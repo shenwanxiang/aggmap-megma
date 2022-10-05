@@ -1,0 +1,8 @@
+,0
+dataset,CRC
+y,./metagenomics/colphy_y.csv
+x,./metagenomics/colphy_x.csv
+MEGMA,"('umap', 5)"
+key,MEGMA-CRC-UMAP-5
+X_size,"(121, 23, 22, 5)"
+fmap_shape,"(23, 22)"
