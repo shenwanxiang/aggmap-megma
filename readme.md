@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6450642.svg)](https://doi.org/10.5281/zenodo.6450642)
+[![DOI](https://zenodo.org/badge/480659672.svg)](https://zenodo.org/badge/latestdoi/480659672)
 [![PyPI version](https://badge.fury.io/py/aggmap.svg)](https://badge.fury.io/py/aggmap)
 [![Documentation Status](https://readthedocs.org/projects/bidd-aggmap/badge/?version=latest)](https://bidd-aggmap.readthedocs.io/en/latest/examples.html#metagenomic-deep-learning-and-biomarker-discovery)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1T4nAtK-CT_1lxfYHd1kgLMjVeR59_IIl)
