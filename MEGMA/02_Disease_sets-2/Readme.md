@@ -22,7 +22,7 @@ pip install deepmg
 ```
 
 
-## Datasets:
+## Datasets 
 
 ```bash
 wget https://drive.google.com/drive/folders/1XD8SqPHyEsLeFrIhIiqG5HdM9LopDfEw
