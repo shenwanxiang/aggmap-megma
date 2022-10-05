@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6450642.svg)](https://doi.org/10.5281/zenodo.6450642)
+[![DOI](https://zenodo.org/badge/480659672.svg)](https://zenodo.org/badge/latestdoi/480659672)
 
 
 ## MEGMA: Metagenomic Microbial Embedding, Grouping, and Mapping Algorthm (MEGMA) 
